@@ -1,0 +1,40 @@
+_repo: That-Boy-Of-Norcott-s_32693
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cooke, W. Cubitt (William Cubitt)
+    aliases:
+    - Cooke, William Cubitt
+    - Cooke, W.C.
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '35916'
+    url: http://www.gutenberg.org/2009/agents/35916
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - Lorrequer, Harry
+    - O'Dowd, Cornelius
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: That boy of Norcott's.--A rent in a cloud.--St. Patrick's eve.
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: That Boy Of Norcott's
+url: http://www.gutenberg.org/ebooks/32693
