@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: That boy of Norcott's.--A rent in a cloud.--St. Patrick's eve.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32693#That-Boy-Of-Norcott-s
 gutenberg_issued: '2010-06-04'
 gutenberg_type: Text
 identifiers:
